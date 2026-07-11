@@ -1,0 +1,6 @@
+{
+  "name": "Helicon Academy",
+  "description": "Premium music and dance academy website featuring elite training courses, dynamic media galleries, and responsive enrollment inquiries.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
